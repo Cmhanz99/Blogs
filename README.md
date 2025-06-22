@@ -29,6 +29,6 @@ It features a simple **newsfeed** section where users can **Create, Read, Update
 
 ## 👤 Accounts
 
-- **userName: Cmahanz99, Snarp, Raneru**
-- **Password: hanz123, france123, raniel123**
+- **userName:** Cmahanz99, Snarp, Raneru
+- **Password:** hanz123, france123, raniel123
 
