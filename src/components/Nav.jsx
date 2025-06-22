@@ -16,7 +16,7 @@ const Nav = ({setData}) => {
   };
   return (
     <nav className="flex fixed top-0 items-center justify-center p-2 bg-slate-900 w-full h-15 z-100">
-      <div className="w-[80%] text-slate-200 flex justify-between items-center">
+      <div className="md:w-[80%] w-[98%] text-slate-200 flex justify-between items-center">
         <Link to={"/"} className="text-2xl">Blog</Link>
         {user && (
           <div className="flex items-center gap-5">
